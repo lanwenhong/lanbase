@@ -1,0 +1,6 @@
+[log]
+level = "debug"
+format = "text"
+
+[storage]
+flush_interval = "3s"
